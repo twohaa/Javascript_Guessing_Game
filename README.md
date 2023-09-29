@@ -1,1 +1,1 @@
-# A Guessing Game By Javscript
+# A Guessing Game By Javascript
